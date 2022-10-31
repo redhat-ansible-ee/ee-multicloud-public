@@ -15,3 +15,4 @@
 === v0.0.5 ===
 
 * add `gnupg2` to EE
+X
